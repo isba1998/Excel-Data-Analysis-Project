@@ -32,4 +32,4 @@ The workbook includes:
 
 ## Project File
 
-`Excel-Data-Analysis-Project.xlsx`
+`Excel-Data-Analysis-Project.xlsx.xlsx`
